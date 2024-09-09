@@ -107,3 +107,8 @@ Once the models are trained, you can evaluate them by running the evaluation sec
 As well as you can view PPO statistics with PPO's given localhost Tensorboard server as well as check the outputs as the changing expeirenced_variance or trained_loss on Abel.
 
 For Kane, you can use pre made matplotlib cell to see the graphs after training.
+
+
+Due to file constraint, train history of Abel was not uploaded here. Please check below google drive
+
+https://drive.google.com/drive/folders/1RCJqtZxj80j0k377ymWmIYn6I2iLBttx?usp=sharing
